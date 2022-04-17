@@ -3,6 +3,8 @@
 
 https://apidocs.cheapshark.com API kullanılarak isminde batman geçen oyunlardan indirim olan oyunları listeleyen ve en yüksek indirime göre indirim oranını belirten, normal fiyatı ile indirimlifiyatını da gösteren bir web uygulaması.
 
+Html, Tailwind, Jquery ile kodlandı. Ortam için npm(windows) ve parceljs kullanıldı.
+
 # Kurulum
 
 ```
@@ -17,6 +19,8 @@ npm i
 npm start
 
 http://localhost:1234
+
+npm run build
 
 ```
 
