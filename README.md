@@ -5,6 +5,8 @@ https://apidocs.cheapshark.com API kullanılarak isminde batman geçen oyunlarda
 
 Html, Tailwind, Jquery ile kodlandı. Ortam için npm(windows) ve parceljs kullanıldı.
 
+https://zippy-swan-4b056a.netlify.app/ üzerinden canlı haline ulaşabilirsiniz.
+
 # Kurulum
 
 ```
